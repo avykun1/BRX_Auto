@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIGURATION id="TEST">
+	<GENERIC>		
+		<CAPTURE_SCREEN_ON_SUCCESS>true</CAPTURE_SCREEN_ON_SUCCESS>
+		<HEADLESS>fasle</HEADLESS>
+	</GENERIC>
+    <IDENTIFICATION en="TEST">
+        <APP_USER_NAME>anil_k_vykuntham@optum.com.qaenv</APP_USER_NAME>
+        <APP_PASSWORD>Optum2019</APP_PASSWORD>
+        <DB_USER_NAME></DB_USER_NAME>
+        <DB_PASSWORD></DB_PASSWORD>
+        <DB_CONNECTION_STRING></DB_CONNECTION_STRING>
+        <APP_URL>https://test.salesforce.com/</APP_URL>
+        <DMRCLASSIC_URL>https://cs51.salesforce.com/a1f/o</DMRCLASSIC_URL>            
+    </IDENTIFICATION>
+    <IDENTIFICATION en="DEV">
+         <APP_USER_NAME>anil_k_vykuntham@optum.com.provonboard</APP_USER_NAME>
+        <APP_PASSWORD>Galaxy#1</APP_PASSWORD>
+        <DB_USER_NAME></DB_USER_NAME>
+        <DB_PASSWORD></DB_PASSWORD>
+        <DB_CONNECTION_STRING></DB_CONNECTION_STRING>
+        <APP_URL>https://test.salesforce.com/</APP_URL>
+        <DMRCLASSIC_URL>https://cs51.salesforce.com/a1f/o</DMRCLASSIC_URL>   
+    </IDENTIFICATION>
+    <IDENTIFICATION en="STAGE">
+        <APP_USER_NAME>anil_k_vykuntham@optum.com.devpartial</APP_USER_NAME>
+        <APP_PASSWORD>Welcome@1</APP_PASSWORD>
+        <DB_USER_NAME></DB_USER_NAME>
+        <DB_PASSWORD></DB_PASSWORD>
+        <DB_CONNECTION_STRING></DB_CONNECTION_STRING>
+        <APP_URL>https://test.salesforce.com/</APP_URL>   
+        <DMRCLASSIC_URL>https://cs51.salesforce.com/a1f/o</DMRCLASSIC_URL>        
+    </IDENTIFICATION>
+    
+</CONFIGURATION>
